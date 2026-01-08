@@ -1,0 +1,15 @@
+# Environnements Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de sortie
+output/
+errors.log
+
+# Lock/IDE
+.vscode/
+.idea/
+uv.lock

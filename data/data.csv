@@ -1,0 +1,41 @@
+﻿id_client;nom;prenom;age;date_inscription;montant_total_eur;actif;derniere_connexion;newsletter_ok;
+1;Dupont;Alice;29;15/01/2023;1234,5;oui;03/11/2024 08:15;TRUE;
+2;Martin;Paul; ;15/02/2022;99,9;non;01/10/2024 21:03;False;
+3;Durand;Sophie;35;01/07/2022;;1; ;TRUE;
+4;Nguyen;Minh;NaN;05/12/2021;1 234,50;0;10/06/2023 09:00;NA;
+5;Moreau;Luc;42;05/03/2020;0;oui;01/01/2024 00:00;true;
+6;Garcia;Elena;;30/11/2020;2500;OUI; ;false;
+7;Bernard;Hugo;27;10/09/2023;75.5;non;11/09/2023 18:30; ;
+8;Rossi;Chiara;31;01/04/2022; ;1;20/05/2024 12:00;TRUE;
+9;Lefevre;Emma;0;20/01/2019;12;0;;FALSE;
+10;Petit;Thomas;33;15/03/2023;8 765,43;oui;01/01/2025 10:10;True;
+11;Petit;Thomas;33;15/03/2023;8 765,43;oui;01/01/2025 10:10;True;
+12;O'Neil;Sean;28;29/02/2024;1,234.00;yes;2024-12-01T12:34;TRUE;
+13;   ;   ; ; ; ; ; ;;
+14;MÃ¼ller;Anna;thirty-two;01/02/2023;â‚¬99,99;non;01/02/2023 08:00;false;
+15;Smith;John;-5;2023-13-01;12.34;;07/07/2024 07:07;TRUE;
+16;Lopez;Carlos;105;03/02/2020;1 000;oui; ;TRUE;
+17;Kowalski;Ewa;NaN;05/05/2018;N/A;0;05/05/2019 05:05;FALSE;
+18;Chen;Wei;29;30/11/2021;inf;1;01/12/2021 00:00;TRUE;
+19;Ivanov;Sergey;44;01/01/2020;0;NON;02/01/2020 10:00;true;
+20; ;Marie; ; ; ;oui; ;False;
+21;D'Amico;Luigi;33;28/02/2022;12 345,67;1;01/03/2022 09:09; ;
+22;Garcia;Elena;31;30/11/2020;2.500,00;OUI;01/01/2024;;TRUE
+23;Dupont;Alice;;15/01/2023;1234,5;oui;03/11/2024 08:15;TRUE;
+24;Ndiaye;Awa;27;15/06/2021;75;oui;16/06/2021 10:10;true;
+25;HernÃ¡ndez;JosÃ©;â€”;01/07/2019;-- ;non; ;FALSE;
+26;Lefevre;Emma;0;20/01/2019;12;0;;FALSE;
+27;Bernard;Hugo;27;10/09/2023;75.5;non;11/09/2023 18:30;TRUE;"note=""dup"""
+28;Baker;Zoe;23;03/03/2023;100;oui;04/03/2023 09:00;TRUE;comment=vip
+29;   ;Jean;;05/05/2022;0;1;06/05/2022 06:06;FALSE;
+30;Ã–ztÃ¼rk;Ahmet;999;10/10/2020;9999999,99;oui;11/10/2020 11:11;TRUE;
+31;Sato;Yuki; ;01/01/2021; ; ; ;;
+32;Smith;John;35;01/01/2023;12,34;oui;02/01/2023 02:02;TRUE;
+33;Smith;John;35;01/01/2023;12,34;oui;02/01/2023 02:02;TRUE;
+34;Dupont;Alice;29;15/01/2023;1 234,50;oui;03/11/2024 08:15;TRUE;
+35;GarcÃ­a;ElÃ©na;xx;02/02/2022;100;oui;03/02/2022 03:03;TRUE;
+36;   ;   ;   ;   ;   ;   ;   ;   ;
+37;Zhang;Li;30;01/06/2021;500;non;02/06/2021 12:00;FALSE;
+38;O;N/A;N/A;N/A;N/A;N/A;N/A;N/A;
+39;Doe;Jane;abc;2020-02-30;12,00â‚¬;oui;01/03/2020 01:01;T R U E;
+40;Petit;Thomas;33;15/03/2023;8765,43;oui;01/01/2025 10:10;True;
